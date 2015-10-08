@@ -1,0 +1,7 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 21, 2015 - 13:06:27
+Django version 1.8, using settings 'mysite_adv.settings'
+Starting development server at http://10.65.234.92:8000/
+Quit the server with CONTROL-C.
